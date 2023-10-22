@@ -7,7 +7,7 @@
 
 - 📚 I’m currently learning **Functional programming and testing applications**
 
-- ✉︎ How to reach me per mail **spina.marco06@gmail.com**
+- ✉︎ Contact me per mail **spina.marco06@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
