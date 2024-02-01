@@ -5,7 +5,7 @@
 
 - 📝 I’m currently working on **my Website**
 
-- 📚 I’m currently learning **Functional programming and testing applications**
+- 📚 I’m currently learning **Programming distributed systems**
 
 - ✉︎ Contact me per mail **spina.marco06@gmail.com**
 
